@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/mrmikeo/DMGcoinjs.git",
+  "_id": "dmgcoinjs@2.0.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/dmgcoinjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mrmikeo/DMGcoinjs",
+    "rawSpec": "https://github.com/mrmikeo/DMGcoinjs",
+    "saveSpec": "git+https://github.com/mrmikeo/DMGcoinjs.git",
+    "fetchSpec": "https://github.com/mrmikeo/DMGcoinjs.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mrmikeo/DMGcoinjs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_spec": "https://github.com/mrmikeo/DMGcoinjs",
+  "_where": "/root/xeggexbackend/walletEngine",
+  "author": {
+    "name": "KaffinPX"
+  },
+  "bugs": {
+    "url": "https://github.com/GateKVite/DMGcoinjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  },
+  "deprecated": false,
+  "description": "Simple DMGcoin library for interacting with DMGcoind & dmgcoinwalletd gRPC",
+  "homepage": "https://github.com/GateKVite/DMGcoinjs#readme",
+  "keywords": [
+    "dmgcoin",
+    "dmgcoinjs",
+    "cryptocurrency"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "dmgcoinjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GateKVite/DMGcoinjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
